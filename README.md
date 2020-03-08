@@ -5,13 +5,13 @@ Identify the number from 1 - 10 by using binary classifier.
 
 1, firstly model i built is SGDClassifier
 output:
-i used SGDClassifier for my first model,measuring accuracy using cross-validation: 
-96% accracy on all cross-validation folds
+i used SGDClassifier for my first model,measuring accuracy  using cross-validation: 
+96% accuracy  on all cross-validation folds
 
 2, confusion matrix
 recall and precision measure.   
-recision accuracy: %83 
-recall accuracy : 
+recision accuracy : 83% 
+recall accuracy  :  60%
 
 
 ![output](https://github.com/LadyWinterD/binary-classifiers-identify-Numbers-/blob/master/OUTPUT.PNG?raw=true)
